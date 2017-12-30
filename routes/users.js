@@ -34,7 +34,7 @@ router
     module.exports = router; 
 
 
-    var users = [{
+    var users = [{   // this json string is from: www.mockaroo.com
         "id": 1,
         "first_name": "Gregoor",
         "last_name": "Squires",
