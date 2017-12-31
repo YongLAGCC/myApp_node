@@ -30,7 +30,7 @@ router
             res.status(404).send(`user ${id} not exist`);
         }
     })
-    ;
+    
     module.exports = router; 
 
 
